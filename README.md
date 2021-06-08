@@ -15,3 +15,11 @@ Company's information and source codes removed because request of the company.
 ![114929889-09d3c800-9e3d-11eb-811d-1e487df9f376](https://user-images.githubusercontent.com/85555090/121174086-38c95180-c862-11eb-94d4-c4243666f4a6.png)
 ![114929892-0a6c5e80-9e3d-11eb-9e7d-851d58b0bd64](https://user-images.githubusercontent.com/85555090/121174096-3a931500-c862-11eb-8d1d-fb551b841ded.png)
 ![114929895-0b04f500-9e3d-11eb-9f0c-9adb3e5292d2](https://user-images.githubusercontent.com/85555090/121174102-3c5cd880-c862-11eb-99c0-4abc0f127bc0.png)
+
+# About Project Team
+Uğur ILGIN
+Vildan ÖT
+Şeyda KOÇAK
+Gizem Nihal BOYRAZ
+Emre ŞAHİN
+Muhammet Erdem ANAÇOĞLU
